@@ -1,0 +1,24 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "CRUD created using Mysql, Node.js and Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jose-santoss/crud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jose-santoss/crud/issues"
+  },
+  "homepage": "https://github.com/Jose-santoss/crud#readme",
+  "dependencies": {
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.23.2"
+  }
+}
